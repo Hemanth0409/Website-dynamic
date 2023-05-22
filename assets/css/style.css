@@ -1,0 +1,11 @@
+#nav-item {
+    color: rgb(252, 252, 252)
+}
+
+#nav-item:hover {
+    color: rgb(2, 0, 0)
+}
+
+#toggle {
+    color: rgb(204, 48, 48);
+}

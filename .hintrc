@@ -1,0 +1,29 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "axe/parsing": [
+      "default",
+      {
+        "duplicate-id-active": "off"
+      }
+    ],
+    "axe/aria": [
+      "default",
+      {
+        "aria-input-field-name": "off",
+        "aria-valid-attr-value": "off"
+      }
+    ],
+    "button-type": "off",
+    "axe/structure": [
+      "default",
+      {
+        "list": "off",
+        "listitem": "off"
+      }
+    ],
+    "detect-css-reflows/composite": "off"
+  }
+}
