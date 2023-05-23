@@ -6,6 +6,13 @@
       "password": "Hemanth!2",
       "confirm_password": "Hemanth!2",
       "id": 1
+    },
+    {
+      "name": "hemanth",
+      "email": "hemant@gamil.com",
+      "password": "Hemanth@1",
+      "confirm_password": "Hemanth@1",
+      "id": 2
     }
   ]
 }
